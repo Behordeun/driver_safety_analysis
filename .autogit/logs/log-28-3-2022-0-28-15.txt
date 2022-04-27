@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Apr 28 2022 00:28:15 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* "scoring model.ipynb"
+
+
+Created files:
+* .autogit/logs/log-27-3-2022-17-20-14.txt
+
+
+Deleted files:
+
+
+Renamed files:
