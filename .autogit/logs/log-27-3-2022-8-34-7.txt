@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 27 2022 08:34:07 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* "Driver safety estimation - pandas.ipynb"
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
